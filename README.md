@@ -8,3 +8,5 @@ The code sets up an ESP32 microcontroller as a web server. It connects to a WiFi
 - LED
 - Small Breadboard
 - Wires
+
+`I recomend this kit for last 4 pices` - [LINK](https://www.amazon.es/Electr%C3%B3nicos-Resistencias-Condensadores-Potenci%C3%B3metro-Especificaciones/dp/B01MRIG6YM/ref=pd_ci_mcx_mh_pe_rm_d1_hxwPPE_sspa_dk_det_p_3?pd_rd_i=B01MRIG6YM)
